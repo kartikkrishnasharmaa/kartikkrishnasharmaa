@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kartikkrishnasharmaa](https://github.com/kartikkrishnasharmaa)
+- 👨‍💻 All of my projects are available at [https://github.com/kartikkrishnasharmaa?tab=repositories](https://github.com/kartikkrishnasharmaa?tab=repositories)
 
 - 📫 How to reach me **kartiksharma.live**
 
