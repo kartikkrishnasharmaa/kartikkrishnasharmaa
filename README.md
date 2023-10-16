@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Sharma</h1>
 <h3 align="center">A Passionate MERN Full Stack Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikkrishnasharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="kartikkrishnasharmaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikkrishnasharmaa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kartikkrishnasharmaa" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
