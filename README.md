@@ -6,7 +6,6 @@ analysis, visualization tools, and reporting. Skilled in developing and implemen
 collection systems, identifying business needs.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikkrishnasharmaa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kartikkrishnasharmaa" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kartikkrishnasharmaa?tab=repositories](https://github.com/kartikkrishnasharmaa?tab=repositories)
 
