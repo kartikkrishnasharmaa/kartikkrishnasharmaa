@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kartik Sharma</h1>
 
-<h3>Highly motivated and detail-oriented Data Analyst with a strong foundation in data
-analysis, visualization tools, and reporting. Skilled in developing and implementing data
-collection systems, identifying business needs.Past experience in 
-Full Stack Web Developer with 2.8 years in designing, developing, and deploying innovative web solutions.</h3>
+<h3>Highly motivated and detail-oriented Ful Stack Web Developer & Data Analyst.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikkrishnasharmaa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kartikkrishnasharmaa" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/kartikkrishnasharmaa?tab=repositories](https://github.com/kartikkrishnasharmaa?tab=repositories)
 
-- 📫 How to reach me **kartiksharma.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
