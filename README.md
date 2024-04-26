@@ -3,6 +3,36 @@
 <h3>Highly motivated and detail-oriented Ful Stack Web Developer & Data Analyst.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikkrishnasharmaa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kartikkrishnasharmaa" /> </p>
 
+<p align="center">
+
+<img src="https://github.com/kartikkrishnasharmaa/github/blob/main/img/arctic-code-vault/arctic-code-vault-contributor-default.png" height="50px" width="50px">
+
+<img src="https://github.com/kartikkrishnasharmaa/github/blob/main/img/galaxy-brain/galaxy-brain-bronze.png" height="50px" width="50px">
+
+<img src="https://github.com/kartikkrishnasharmaa/github/blob/main/img/heart-on-your-sleeve/heart-on-your-sleeve-gold.png" height="50px" width="50px">
+
+<img src="https://github.com/kartikkrishnasharmaa/github/blob/main/img/mars-2020-contributor/mars-2020-contributor-default.png" height="50px" width="50px">
+
+<img src="https://github.com/kartikkrishnasharmaa/github/blob/main/img/open-sourcerer/open-sourcerer-bronze.png" height="50px" width="50px">
+
+<img src="https://github.com/kartikkrishnasharmaa/github/blob/main/img/pair-extraordinaire/pair-extraordinaire-bronze.png" height="50px" width="50px">
+
+<img src="https://github.com/kartikkrishnasharmaa/github/blob/main/img/pair-extraordinaire/pair-extraordinaire-gold.png" height="50px" width="50px">
+
+<img src="https://github.com/kartikkrishnasharmaa/github/blob/main/img/public-sponsor/public-sponsor-default.png" height="50px" width="50px">
+
+<img src="https://github.com/kartikkrishnasharmaa/github/blob/main/img/pull-shark/pull-shark-gold.png" height="50px" width="50px">
+
+<img src="https://github.com/kartikkrishnasharmaa/github/blob/main/img/quickdraw/quickdraw-default.png" height="50px" width="50px">
+
+<img src="https://github.com/kartikkrishnasharmaa/github/blob/main/img/yolo/yolo-default.png" height="50px" width="50px">
+
+<img src="https://github.com/kartikkrishnasharmaa/github/blob/main/img/starstruck/starstruck-gold.png" height="50px" width="50px">
+
+
+</p >
+
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/kartikkrishnasharmaa?tab=repositories](https://github.com/kartikkrishnasharmaa?tab=repositories)
 
