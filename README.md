@@ -1,17 +1,104 @@
-<h1 align="center">Hi 👋, I'm Kartik Sharma</h1>
+<!-- PROFILE HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kartik+Sharma!;Software+Developer+%26+Data+Analyst;Tech+Enthusiast+%7C+Quick+Learner+%7C+Innovator" alt="Typing SVG" />
+</h1>
 
-<h3>Highly motivated and detail-oriented Software Developer & Data Analyst.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikkrishnasharmaa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kartikkrishnasharmaa" /> </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://instagram.com/kartikkrishnasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikkrishnasharma" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kartikkrishnasharmaa&label=Profile+Views&color=00AEEF&style=for-the-badge" alt="Profile views"/>
 </p>
 
+---
 
+## 🧠 About Me  
 
-<h3 align="left">Languages and Tools:</h3>
+💡 Highly motivated and detail-oriented **Software Developer & Data Analyst** passionate about technology, data visualization, and full-stack web development.  
+🚀 I love **building impactful web apps**, exploring **AI tools**, and creating **smart digital solutions**.  
+🎯 My goal is to continuously learn and apply modern technologies to solve real-world problems.
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
+
+## 🔗 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/kartikkrishnasharma" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/kartikkrishnasharma" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:kartiksharmaofficialmail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kartikkrishnasharmaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚙️ Languages & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,redux,nodejs,express,mongodb,git,github,python,c,cpp,java,mysql,postman,vscode,figma&perline=10" />
+</p>
+
+---
+
+## 🖥️ Tech Stack Summary  
+
+| Area | Technologies |
+|------|---------------|
+| 💻 Frontend | ReactJS, Next.js, Redux, HTML5, CSS3, Bootstrap, Tailwind |
+| ⚙️ Backend | Node.js, Express.js, REST APIs |
+| 🧮 Database | MongoDB, MySQL, SQL Server |
+| ☁️ Tools | Firebase, GitHub, VS Code, Postman |
+| 📊 Data | Power BI, Excel, Python (Pandas, NumPy) |
+
+---
+
+## 📈 GitHub Stats & Activity  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kartikkrishnasharmaa&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikkrishnasharmaa&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartikkrishnasharmaa&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🧩 Fun Animations  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+
+- 🌐 Built full-stack web apps using **MERN stack**
+- 📊 Created interactive dashboards using **Power BI**
+- ⚡ Experienced with **ERP & CRM Systems**
+- 🎓 **MCA Graduate**, pursuing **MSc** in Computer Science
+- 🧩 Trainer in **Web Development, Data Analysis, & Digital Marketing**
+
+---
+
+## 💬 Quote of the Day  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🪄 Fun Fact  
+> I don’t just write code — I design ideas into reality 🚀  
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
+</p>
