@@ -1,7 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kartik+Sharma!;Software+Developer+%26+Data+Analyst;Tech+Enthusiast+%7C+Quick+Learner+%7C+Innovator" alt="Typing SVG" />
-</h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kartikkrishnasharmaa&label=Profile+Views&color=00AEEF&style=for-the-badge" alt="Profile views"/>
