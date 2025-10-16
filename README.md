@@ -9,7 +9,7 @@
 
 ## 🧠 About Me  
 
-💡 Highly motivated and detail-oriented **Software Developer & Data Analyst** passionate about technology, data visualization, and full-stack web development.  
+💡 Highly motivated and detail-oriented **Software Developer & Data Analyst & Digital Marketing Specialist** passionate about technology, data visualization, and full-stack web development.  
 🚀 I love **building impactful web apps**, exploring **AI tools**, and creating **smart digital solutions**.  
 🎯 My goal is to continuously learn and apply modern technologies to solve real-world problems.
 
@@ -17,7 +17,7 @@
 
 ## 🔗 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/kartikkrishnasharma" target="_blank">
+  <a href="https://www.linkedin.com/in/dev-kartik-sharma/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/kartikkrishnasharma" target="_blank">
@@ -74,21 +74,6 @@
 
 ---
 
-## 🏆 Achievements  
-
-- 🌐 Built full-stack web apps using **MERN stack**
-- 📊 Created interactive dashboards using **Power BI**
-- ⚡ Experienced with **ERP & CRM Systems**
-- 🎓 **MCA Graduate**, pursuing **MSc** in Computer Science
-- 🧩 Trainer in **Web Development, Data Analysis, & Digital Marketing**
-
----
-
-## 💬 Quote of the Day  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
 ---
 
 ## 🪄 Fun Fact  
@@ -100,3 +85,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 </p>
+
+
+## 💬 Quote of the Day  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
